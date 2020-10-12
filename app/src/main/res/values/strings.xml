@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laboratorio 1</string>
+    <string name="mi_mensaje_es">Mi mensaje es:</string>
+    <string name="todo">TODO</string>
+</resources>
